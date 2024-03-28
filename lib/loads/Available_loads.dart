@@ -5,7 +5,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:intl/intl.dart';
 import 'package:transmaa_driver/loads/suggetion_loads.dart';
-import '../history_details/history_screen.dart';
+import '../history_details/history_screen.dart';//
 import 'package:http/http.dart' as http;
 
 class PlaceSuggestion {
